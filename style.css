@@ -1,3 +1,8 @@
+/*fonts and things*/
+h1 {
+    font-family: cursive;
+}
+
 ul {
   list-style-type: none;
   display: flex;
