@@ -1,3 +1,17 @@
+body {
+    background-color: #F8C8DC;
+}
+
+header {
+    background-color: #AEC6CF;
+
+}
+
+footer {
+    background-color: #AEC6CF;
+}
+
+
 /*fonts and things*/
 h1 {
     font-family: cursive;
